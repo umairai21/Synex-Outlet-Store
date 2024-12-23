@@ -1,0 +1,73 @@
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\addItemPage.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Checkout.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\displayItems.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\homePage.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\manageInventory.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Reports.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\App.g.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2_MarkupCompile.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2_MarkupCompile.lref
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Assignment 2.exe
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Assignment 2.deps.json
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Assignment 2.runtimeconfig.json
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Assignment 2.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Assignment 2.pdb
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\addItemPage.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Checkout.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\displayItems.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\homePage.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\MainWindow.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\manageInventory.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Reports.baml
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.g.resources
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.AssemblyInfoInputs.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.AssemblyInfo.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.csproj.CoreCompileInputs.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\refint\Assignment 2.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.pdb
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.genruntimeconfig.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\ref\Assignment 2.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignment 2.csproj.AssemblyReference.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\obj\Debug\net8.0-windows\Assignme.B8B9BD87.Up2Date
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Server.deps.json
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Server.exe
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Server.dll
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment 2\bin\Debug\net8.0-windows\Server.pdb

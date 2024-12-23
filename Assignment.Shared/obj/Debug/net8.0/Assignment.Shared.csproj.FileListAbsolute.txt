@@ -1,0 +1,4 @@
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment.Shared\obj\Debug\net8.0\Assignment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment.Shared\obj\Debug\net8.0\Assignment.Shared.AssemblyInfoInputs.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment.Shared\obj\Debug\net8.0\Assignment.Shared.AssemblyInfo.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\Assignment.Shared\obj\Debug\net8.0\Assignment.Shared.csproj.CoreCompileInputs.cache

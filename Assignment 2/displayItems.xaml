@@ -1,0 +1,38 @@
+﻿<Window x:Class="Assignment_2.displayItems"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment_2"
+        mc:Ignorable="d"
+        Title="Inventory Items" Height="450" Width="800" 
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid Background="WhiteSmoke">
+        <!-- Inventory Title -->
+        <Label x:Name="LBL1" Content="INVENTORY" HorizontalAlignment="Center" VerticalAlignment="Top" 
+               Margin="0,10,0,0" FontFamily="Times New Roman" FontSize="30" FontWeight="Bold" Foreground="Black"/>
+
+        <!-- DataGrid for displaying items -->
+        <DataGrid x:Name="myDataGrid" ItemsSource="{Binding Items}" Margin="20,60,20,60" AutoGenerateColumns="False" 
+                  CanUserAddRows="False" CanUserDeleteRows="False" 
+                  IsReadOnly="True" GridLinesVisibility="All" AlternatingRowBackground="LightGray">
+
+            <!-- Define Columns for DataGrid -->
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Stock Code" Binding="{Binding StockCode}" Width="*" FontSize="14"/>
+                <DataGridTextColumn Header="Item Code" Binding="{Binding ItemCode}" Width="*" FontSize="14"/>
+                <DataGridTextColumn Header="Item Name" Binding="{Binding ItemName}" Width="*" FontSize="14"/>
+                <DataGridTextColumn Header="Item Price" Binding="{Binding ItemPrice}" Width="*" FontSize="14"/>
+                <DataGridTextColumn Header="Item Quantity" Binding="{Binding QuantityReceived}" Width="*" FontSize="14"/>
+                <DataGridTextColumn Header="Expiry Date" Binding="{Binding ExpiryDate, StringFormat=\{0:yyyy-MM-dd\}}" Width="*" FontSize="14"/>
+                <DataGridTextColumn Header="Shelf Number" Binding="{Binding ShelfNo}" Width="*" FontSize="14"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Back Button -->
+        <Button x:Name="btn1" Content="BACK" Command="{Binding BackCommand}" HorizontalAlignment="Right" Margin="0,10,20,0" VerticalAlignment="Top" 
+                FontFamily="Times New Roman" FontSize="15" Width="100" Height="40" Background="LightGray" 
+                Foreground="Black"/>
+    </Grid>
+</Window>

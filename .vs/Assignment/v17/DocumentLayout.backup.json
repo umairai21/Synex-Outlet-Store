@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\repository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\repository\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1C2EFC-A6B4-484A-991C-B82FBF55A791}|Server\\Server.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1C2EFC-A6B4-484A-991C-B82FBF55A791}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256ADE42-1B83-4215-B4E5-B1062199EE64}|SYOS2Tests\\SYOSGUITests.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\syos2tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256ADE42-1B83-4215-B4E5-B1062199EE64}|SYOS2Tests\\SYOSGUITests.csproj|solutionrelative:syos2tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\repository\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\repository\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\additempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\additempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\additempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\additempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\additemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\additemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\services\\eventloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\services\\eventloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\commands\\welcomecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\commands\\welcomecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\commands\\submitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\commands\\submitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\commands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\commands\\exitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\reportsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\reportsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\checkout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\checkout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF49B29-BB8C-4A35-BCD4-F6BA3935D6A9}|SYOSTests\\SYOSTests.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\syostests\\alltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF49B29-BB8C-4A35-BCD4-F6BA3935D6A9}|SYOSTests\\SYOSTests.csproj|solutionrelative:syostests\\alltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\dto\\stockwithitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\dto\\stockwithitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\dto\\billitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\dto\\billitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\dto\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\dto\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\displayitemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\displayitemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\manageinventoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\manageinventoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOSTest2\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SYOSTest2\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\displayitems.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\displayitems.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\checkout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\checkout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\reports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\reports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\displayitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\displayitems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\manageinventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\manageinventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\manageinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\manageinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|d:\\3rd year\\cccp 2\\synex outlet store\\assignment 2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A4BF81-F7C7-4609-BFFC-D8876ECC6CF1}|Assignment 2\\Assignment 2.csproj|solutionrelative:assignment 2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Repository\\ItemRepository.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "Assignment 2\\Repository\\ItemRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:44:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsRepository.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Repository\\ReportsRepository.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Repository\\ReportsRepository.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Repository\\ReportsRepository.cs",
+              "RelativeToolTip": "Assignment 2\\Repository\\ReportsRepository.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAYwK8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:15:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Services\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Services\\CheckoutService.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Services\\CheckoutService.cs",
+              "RelativeToolTip": "Assignment 2\\Services\\CheckoutService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwGMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:48:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOS2Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SYOS2Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOS2Tests\\UnitTest1.cs",
+              "RelativeToolTip": "SYOS2Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T23:04:13.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Repository\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Repository\\IItemRepository.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Repository\\IItemRepository.cs",
+              "RelativeToolTip": "Assignment 2\\Repository\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:25:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:28:00.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "addItemPage.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\addItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\addItemPage.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\addItemPage.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\addItemPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:41:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addItemPage.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\addItemPage.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\addItemPage.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\addItemPage.xaml",
+              "RelativeToolTip": "Assignment 2\\addItemPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:43:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddItemViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\AddItemViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\AddItemViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\AddItemViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\AddItemViewModel.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:10:48.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Services\\NavigationService.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Services\\NavigationService.cs",
+              "RelativeToolTip": "Assignment 2\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:28:14.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventLoggerService.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Services\\EventLoggerService.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Services\\EventLoggerService.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Services\\EventLoggerService.cs",
+              "RelativeToolTip": "Assignment 2\\Services\\EventLoggerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:11:50.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WelcomeCommand.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\WelcomeCommand.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Commands\\WelcomeCommand.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\WelcomeCommand.cs",
+              "RelativeToolTip": "Assignment 2\\Commands\\WelcomeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:13:44.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubmitCommand.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\SubmitCommand.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Commands\\SubmitCommand.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\SubmitCommand.cs",
+              "RelativeToolTip": "Assignment 2\\Commands\\SubmitCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:37:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Assignment 2\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:46:00.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavigateCommand.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\NavigateCommand.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Commands\\NavigateCommand.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\NavigateCommand.cs",
+              "RelativeToolTip": "Assignment 2\\Commands\\NavigateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:27:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExitCommand.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\ExitCommand.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Commands\\ExitCommand.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Commands\\ExitCommand.cs",
+              "RelativeToolTip": "Assignment 2\\Commands\\ExitCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:14:00.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\ReportsViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\ReportsViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\ReportsViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\ReportsViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:11:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reports.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Reports.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\Reports.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Reports.xaml",
+              "RelativeToolTip": "Assignment 2\\Reports.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:55:41.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Checkout.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Checkout.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Checkout.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Checkout.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\Checkout.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:40:52.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "homePage.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\homePage.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\homePage.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\homePage.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\homePage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:44:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AllTests.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOSTests\\AllTests.cs",
+              "RelativeDocumentMoniker": "SYOSTests\\AllTests.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOSTests\\AllTests.cs",
+              "RelativeToolTip": "SYOSTests\\AllTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:20:47.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\CheckoutViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\CheckoutViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:10:58.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StockWithItemDTO.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\DTO\\StockWithItemDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\DTO\\StockWithItemDTO.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\DTO\\StockWithItemDTO.cs",
+              "RelativeToolTip": "Assignment 2\\DTO\\StockWithItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:16:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BillItemDTO.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\DTO\\BillItemDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\DTO\\BillItemDTO.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\DTO\\BillItemDTO.cs",
+              "RelativeToolTip": "Assignment 2\\DTO\\BillItemDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:16:35.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillDTO.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\DTO\\BillDTO.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\DTO\\BillDTO.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\DTO\\BillDTO.cs",
+              "RelativeToolTip": "Assignment 2\\DTO\\BillDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:35:18.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DisplayItemsViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\DisplayItemsViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\DisplayItemsViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\DisplayItemsViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\DisplayItemsViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T22:03:11.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "homePageViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\homePageViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\homePageViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\homePageViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\homePageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:27:22.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageInventoryViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\ManageInventoryViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\ManageInventoryViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\ManageInventoryViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\ManageInventoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:11:10.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:14:26.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Assignment 2\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:47:14.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TcpConnection.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\TcpConnection.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\TcpConnection.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\TcpConnection.cs",
+              "RelativeToolTip": "Assignment 2\\TcpConnection.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:34:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOSTest2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SYOSTest2\\UnitTest1.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\SYOSTest2\\UnitTest1.cs",
+              "RelativeToolTip": "SYOSTest2\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:24:34.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "displayItems.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\displayItems.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\displayItems.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\displayItems.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\displayItems.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwCAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:47:18.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Checkout.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Checkout.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\Checkout.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Checkout.xaml",
+              "RelativeToolTip": "Assignment 2\\Checkout.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T14:36:49.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reports.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Reports.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\Reports.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\Reports.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\Reports.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:47:32.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "displayItems.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\displayItems.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\displayItems.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\displayItems.xaml",
+              "RelativeToolTip": "Assignment 2\\displayItems.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:49:04.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "manageInventory.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\manageInventory.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\manageInventory.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\manageInventory.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\manageInventory.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:47:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "manageInventory.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\manageInventory.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\manageInventory.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\manageInventory.xaml",
+              "RelativeToolTip": "Assignment 2\\manageInventory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:54:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "homePage.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\homePage.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\homePage.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\homePage.xaml",
+              "RelativeToolTip": "Assignment 2\\homePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T08:33:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\MainWindow.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment 2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T15:21:34.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:21:44.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\App.xaml",
+              "RelativeDocumentMoniker": "Assignment 2\\App.xaml",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\App.xaml",
+              "RelativeToolTip": "Assignment 2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T07:00:04.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment 2\\App.xaml.cs",
+              "ToolTip": "D:\\3rd Year\\CCCP 2\\Synex Outlet Store\\Assignment 2\\App.xaml.cs",
+              "RelativeToolTip": "Assignment 2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:59:59.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

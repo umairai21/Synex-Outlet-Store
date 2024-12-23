@@ -1,0 +1,6 @@
+D:\3rd Year\CCCP 2\Synex Outlet Store\SYOSTests\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_SYOSTests
+D:\3rd Year\CCCP 2\Synex Outlet Store\SYOSTests\obj\Debug\net8.0-windows\SYOSTests.csproj.AssemblyReference.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\SYOSTests\obj\Debug\net8.0-windows\SYOSTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\CCCP 2\Synex Outlet Store\SYOSTests\obj\Debug\net8.0-windows\SYOSTests.AssemblyInfoInputs.cache
+D:\3rd Year\CCCP 2\Synex Outlet Store\SYOSTests\obj\Debug\net8.0-windows\SYOSTests.AssemblyInfo.cs
+D:\3rd Year\CCCP 2\Synex Outlet Store\SYOSTests\obj\Debug\net8.0-windows\SYOSTests.csproj.CoreCompileInputs.cache
