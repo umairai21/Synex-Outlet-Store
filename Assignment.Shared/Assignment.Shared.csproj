@@ -1,9 +1,0 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-	<PropertyGroup>
-		<TargetFramework>net8.0</TargetFramework>
-		<!-- Set to net8.0 for cross-project compatibility -->
-		<Nullable>enable</Nullable>
-	</PropertyGroup>
-
-</Project>
